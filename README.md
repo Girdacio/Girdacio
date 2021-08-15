@@ -8,7 +8,7 @@
 
   <img align="center" height="30" width="40" src="https://image.flaticon.com/icons/png/512/226/226777.png">
   <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/spring-logo.png">
-  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
+  <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
   <img align="center" height="30" width="40" src="https://img.icons8.com/color/452/javascript--v1.png">
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
 </div>
