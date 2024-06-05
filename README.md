@@ -3,14 +3,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Girdacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girdacio&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  
-
-  <img align="center" height="30" width="30" src="https://image.flaticon.com/icons/png/512/226/226777.png">
-  <img align="center" height="30" width="30" src="https://img.icons8.com/color/452/spring-logo.png">
-  <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png">
-  <img align="center" height="30" width="30" src="https://img.icons8.com/color/452/javascript--v1.png">
-  <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
+<div style="display:'flex'; justify-content:'center';">
+<img align="center" src='https://github.com/Girdacio/Girdacio/blob/main/angularjs-original.svg' alt='angular' height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/html5-original.svg' alt='html5'height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/css3-original.svg' alt='css3' height='30' width='40'>
+<img align="center" src='https://github.com/Girdacio/Girdacio/blob/main/javascript-original.svg' alt='javascript' height='30' width='40'>
+<img align="center" src='https://github.com/Girdacio/Girdacio/blob/main/typescript-original.svg' alt='typescript' height='30' width='40'>
+<img align="center" src='https://github.com/Girdacio/Girdacio/blob/main/nodejs-original.svg' alt='nodejs' height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/java-original.svg' alt='java' height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/materialui-original.svg' alt='material'height='30' width='40'>
 </div>
  
   ##
