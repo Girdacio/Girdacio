@@ -13,6 +13,7 @@
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/html5-original.svg' alt='html5'height='30' width='40'>
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/css3-original.svg' alt='css3' height='30' width='40'>
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/materialui-original.svg' alt='material'height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/python-svgrepo-com.svg' alt='material'height='30' width='40'>
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/kotlin-1-logo-svgrepo-com.svg' alt='material'height='30' width='40'>
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/android-icon-svgrepo-com.svg' alt='material'height='30' width='40'>
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/php3-svgrepo-com.svg' alt='material'height='30' width='40'>
