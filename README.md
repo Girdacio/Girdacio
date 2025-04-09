@@ -4,6 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girdacio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display:'flex'; justify-content:'center';">
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/aws-svgrepo-com.svg' alt='java' height='30' width='40'>
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/java-original.svg' alt='java' height='30' width='40'>
 <img align="center" src='https://github.com/Girdacio/Girdacio/blob/main/typescript-original.svg' alt='typescript' height='30' width='40'>
 <img align="center" src='https://github.com/Girdacio/Girdacio/blob/main/javascript-original.svg' alt='javascript' height='30' width='40'>
@@ -18,6 +19,11 @@
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/hibernate-svgrepo-com.svg' alt='material'height='30' width='40'>
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/jquery-svgrepo-com.svg' alt='material'height='30' width='40'>
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/mysql-svgrepo-com.svg' alt='material'height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/aws-dynamodb-svgrepo-com.svg' alt='material'height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/datadog-svgrepo-com.svg' alt='material'height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/github-svgrepo-com.svg' alt='material'height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/grafana-svgrepo-com.svg' alt='material'height='30' width='40'>
+<img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/splunk-svgrepo-com.svg' alt='material'height='30' width='40'>
 <img align="center"src='https://github.com/Girdacio/Girdacio/blob/main/bootstrap-svgrepo-com.svg' alt='material'height='30' width='40'>
 </div>
  
